@@ -9,6 +9,7 @@ import IndustrySection from "./components/container/IndustrySection/IndustrySect
 import PortofolioSection from "./components/container/PortofolioSection/PortofolioSection";
 import TestimoniSection from "./components/container/TestimoniSection/TestimoniSection";
 import FaqSection from "./components/container/FaqSection/FaqSection";
+import MessageSection from "./components/container/MessageSection/MessageSection";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <PortofolioSection />
       <TestimoniSection />
       <FaqSection />
+      <MessageSection />
 
     </>
   );
