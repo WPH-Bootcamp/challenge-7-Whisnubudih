@@ -1,5 +1,6 @@
 import logoSymbol from '../../../assets/logo-symbol.svg'
 import iconHamburgerMenu from '../../../assets/iconHamburgerMenu.svg'
+import iconHamburgerLight from '../../../assets/iconHamburgerLight.svg'
 
 export default function Navbar() {
 
@@ -13,6 +14,10 @@ export default function Navbar() {
 
       <div className="block md:hidden">
         <img src={iconHamburgerMenu} alt="iconHamburgerMenu" />
+      </div>
+
+       <div className="dark:hidden block md:hidden">
+        <img src={iconHamburgerLight} alt="iconHamburgerMenu" />
       </div>
 
 

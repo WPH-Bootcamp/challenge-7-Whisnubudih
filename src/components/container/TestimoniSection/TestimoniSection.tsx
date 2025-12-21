@@ -64,7 +64,7 @@ export default function TestimoniSection() {
           </div>
         </div>
 
-        <div className="hidden md:flex flex-col rounded-2xl bg-[#0A0D12] border-[#FF6C37] gap-6 pb-12 pt-6 px-6 relative md:w-148 md:h-73">
+        <div className="hidden md:flex flex-col rounded-2xl dark:bg-[#0A0D12] bg-[#FAFAFA] border-[#FF6C37] gap-6 pb-12 pt-6 px-6 relative md:w-148 md:h-73">
           <div className="absolute ml-10 -top-10">
             <img src={iconDoubleThick} alt="iconDoubleThick" />
           </div>

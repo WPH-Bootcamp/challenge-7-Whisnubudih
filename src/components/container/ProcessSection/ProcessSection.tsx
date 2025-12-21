@@ -88,7 +88,7 @@ export default function ProcessSection() {
 
         <div className="hidden md:flex flex-col w-290 h-194.5 gap-4">
           <div className="flex w-290 h-29 gap-6 items-center">
-            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between bg-[#0A0D12] border-[#181D27]">
+            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between dark:bg-[#0A0D12] bg-[#FAFAFA]  border-[#181D27]">
               <div>
                 <p className="font-bold text-xl ">Discovery & Consultation</p>
                 <p className="font-medium text-base text-[#A4A7AE]">Understand Your Needs & Goals</p>
@@ -105,7 +105,7 @@ export default function ProcessSection() {
             <div className="flex bg-[#FF623E] h-12 w-12 p-2 gap-2 rounded-full items-center justify-center">
               <p className="font-bold text-base">2</p>
             </div>
-            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between bg-[#0A0D12] border-[#181D27]">
+            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between dark:bg-[#0A0D12] bg-[#FAFAFA] border-[#181D27]">
               <div>
                 <p className="font-bold text-xl ">Planning & Strategy</p>
                 <p className="font-medium text-base text-[#A4A7AE]">Build a Clear, Scalable Roadmap</p>
@@ -114,7 +114,7 @@ export default function ProcessSection() {
             </div>
           </div>
           <div className="flex w-290 h-29 gap-6 items-center">
-            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between bg-[#0A0D12] border-[#181D27]">
+            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between dark:bg-[#0A0D12] bg-[#FAFAFA] border-[#181D27]">
               <div>
                 <p className="font-bold text-xl ">Design & Prototyping</p>
                 <p className="font-medium text-base text-[#A4A7AE]">Craft UX That Converts</p>
@@ -131,7 +131,7 @@ export default function ProcessSection() {
             <div className="flex bg-[#FF623E] h-12 w-12 p-2 gap-2 rounded-full items-center justify-center">
               <p className="font-bold text-base">4</p>
             </div>
-            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between bg-[#0A0D12] border-[#181D27]">
+            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between dark:bg-[#0A0D12] bg-[#FAFAFA] border-[#181D27]">
               <div>
                 <p className="font-bold text-xl ">Development & Implementation</p>
                 <p className="font-medium text-base text-[#A4A7AE]">Deliver With Speed & Precision</p>
@@ -140,7 +140,7 @@ export default function ProcessSection() {
             </div>
           </div>
           <div className="flex w-290 h-29 gap-6 items-center">
-            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between bg-[#0A0D12] border-[#181D27]">
+            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between dark:bg-[#0A0D12] bg-[#FAFAFA] border-[#181D27]">
               <div>
                 <p className="font-bold text-xl ">Testing & Optimization</p>
                 <p className="font-medium text-base text-[#A4A7AE]">Ensure Quality at Every Step</p>
@@ -157,7 +157,7 @@ export default function ProcessSection() {
             <div className="flex bg-[#FF623E] h-12 w-12 p-2 gap-2 rounded-full items-center justify-center">
               <p className="font-bold text-base">6</p>
             </div>
-            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between bg-[#0A0D12] border-[#181D27]">
+            <div className="flex  w-133 h-29 rounded-2xl p-6 justify-between dark:bg-[#0A0D12] bg-[#FAFAFA] border-[#181D27]">
               <div>
                 <p className="font-bold text-xl ">Launch & Growth</p>
                 <p className="font-medium text-base text-[#A4A7AE]">Scale, Measure & Improve Continuously</p>
