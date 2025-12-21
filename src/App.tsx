@@ -10,6 +10,7 @@ import PortofolioSection from "./components/container/PortofolioSection/Portofol
 import TestimoniSection from "./components/container/TestimoniSection/TestimoniSection";
 import FaqSection from "./components/container/FaqSection/FaqSection";
 import MessageSection from "./components/container/MessageSection/MessageSection";
+import Footer from "./components/container/Footer/Footer";
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
       <TestimoniSection />
       <FaqSection />
       <MessageSection />
-
+      <Footer />
     </>
   );
 }

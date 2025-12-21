@@ -1,9 +1,3 @@
-import iconDoubleThick from "../../../assets/iconDoubleThick.svg";
-import Rating from "../../../assets/Rating.svg";
-import imgProfile1 from "../../../assets/imgProfile1.svg";
-import imgProfile2 from "../../../assets/imgProfile2.svg";
-import imgProfile3 from "../../../assets/imgProfile3.svg";
-import Pagination from "../../../assets/Pagination.svg";
 
 export default function MessageSection() {
   return (
