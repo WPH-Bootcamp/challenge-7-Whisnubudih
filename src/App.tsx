@@ -1,5 +1,6 @@
-import Hero from "./components/container/HeroSection";
+// import Hero from "./components/container/HeroSection";
 import Navbar from "./components/container/NavBar/Navbar";
+import HeaderSection from "./components/container/HeaderSection/HeaderSection";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       {/* example */}
       {/* <Hero /> */}
       <Navbar />
+      <HeaderSection />
 
     </>
   );
