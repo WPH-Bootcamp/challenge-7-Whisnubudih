@@ -1,5 +1,6 @@
 
 import imgGearHp from '../../../assets/imgGearHp.svg'
+import imgGearLight from '../../../assets/imgGearLight.svg'
 
 export default function HeaderSection() {
 
@@ -15,8 +16,12 @@ export default function HeaderSection() {
             <button className="bg-[#FF623E] w-90 h-11 md:w-50 md:h-12 p-2 gap-1 rounded-full">Lets Talk</button>
         </div>
       </div>
-      <div className=" mt-10 md:mt-0">
+      <div className="dark:flex hidden mt-10 md:mt-0">
         <img src={imgGearHp}  alt="imgGearHp"/>
+      </div>
+
+      <div className="dark:hidden mt-10 md:mt-0">
+        <img src={imgGearLight}  alt="imgGearHp"/>
       </div>
     </section>
   );
