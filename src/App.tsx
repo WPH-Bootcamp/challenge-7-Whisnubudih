@@ -2,16 +2,15 @@
 import Navbar from "./components/container/NavBar/Navbar";
 import HeaderSection from "./components/container/HeaderSection/HeaderSection";
 import BrandSection from "./components/container/BrandSection/BrandSection";
+import ResultSection from "./components/container/ResultSection/ResultSection";
 
 function App() {
   return (
     <>
-      {/* <h1 className="text-3xl">code here</h1> */}
-      {/* example */}
-      {/* <Hero /> */}
       <Navbar />
       <HeaderSection />
       <BrandSection />
+      <ResultSection />
 
     </>
   );
