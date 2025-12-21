@@ -1,6 +1,7 @@
 // import Hero from "./components/container/HeroSection";
 import Navbar from "./components/container/NavBar/Navbar";
 import HeaderSection from "./components/container/HeaderSection/HeaderSection";
+import BrandSection from "./components/container/BrandSection/BrandSection";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       {/* <Hero /> */}
       <Navbar />
       <HeaderSection />
+      <BrandSection />
 
     </>
   );
